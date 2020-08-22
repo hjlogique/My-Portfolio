@@ -1,0 +1,82 @@
+
+/**
+ * Media Query Style: My website;
+ **/
+
+ * {
+    box-sizing: border-box;
+  }
+  
+  /*
+    Browser widths above 992px
+  */
+
+
+  @media screen and (max-width: 992px) {
+
+    .container {
+      /* Box-model */
+      width: 70%;
+      margin: 20px;
+      display: inline-block;
+    }
+  
+  }
+
+/* Additional Screen Sizes */
+
+/* Width at 320px and below */
+
+@media screen and (max-width: 768px) {
+    .container {
+        /* Box-model */
+        width: 50%;
+        margin: 20px;
+        display: inline-block;
+      }
+  }
+  
+  /* Additional Screen Sizes */
+  
+  /* Width at 320px and below */
+  @media screen and (max-width: 320px) {
+    body {
+      background-color: #333;
+    }
+  
+    .wrapper {
+      /* Box-model */
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-content,
+    #sidebar {
+      width: 100%;
+    }
+  
+    #sidebar {
+      margin-top: 40px;
+    }
+  }
+  
+  /* Width at 168px and below */
+  @media screen and (max-width: 168px) {
+    body {
+      background-color: #333;
+    }
+  
+    .wrapper {
+      /* Box-model */
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-content,
+    #sidebar {
+      width: 100%;
+    }
+  
+    #sidebar {
+      margin-top: 40px;
+    }
