@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- Copyright 2020 Logique.com All rights reserved. -->
+<!-- Logique.com - Contact webpage -->
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Contact webpage -->
-    <title>Contact</title>
+    <!-- Title of the webpage -->
+    <title>Contact Henry Logique</title>
+
+    <!-- Meta Description: 130 chracters -->
+    <meta name="description"
+        content="henry jean logique, about, portfolio, contact, web e-Learning application programmer, graphic designer, multimedia, visual effects">
+
+    <!-- Adjust for different devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Reset, Bootstrap, main Style and Responsive CSS files -->
     <link rel="stylesheet" href="assets/css/reset.css">
@@ -20,12 +30,17 @@
 
     <!-- Navigation Bar -->
     <nav class="navbar  navbar-expand-lg navbar-fixed-top navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">HENRY JEAN LOGIQUE</a>
+
+        <!-- My Name as my logo  -->
+            <a class="navbar-brand" href="index.html">HENRY JEAN LOGIQUE</a>
+        
+        <!-- Navigation Buttons -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
+        <!-- Navigation Button Links -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
@@ -41,37 +56,39 @@
         </div>
     </nav>
     <br><br>
+
+    <!-- Main content of the Contact page -->
     <div class="container">
-        <!--Section: Contact v.2-->
+        <!-- Section: Contact -->
         <section class="mb-4">
 
-            <!--Section heading-->
-            <h1 class="h1-responsive">Contact</h1>
+            <!-- Section heading -->
+            <div class="page-header">
+                <h1>Contact</h1>
+            </div>
 
-            <!--Section description-->
+            <!-- Section description -->
             <div class="row">
 
-                <!--Grid column-->
+                <!-- Grid column -->
                 <div class="col-md-9 mb-md-0 mb-5">
                     <form id="contact-form" name="contact-form" action="mail.php" method="POST">
 
-                        <!--Section divider-->
+                        <!-- Section divider line -->
                         <hr class="style">
-                        </hr>
 
-                        <!--Grid row-->
+                        <!-- Grid row -->
                         <div class="row">
 
-                            <!--Grid column-->
+                            <!-- Grid column includes the form's Name entry field-->
                             <div class="col-md-9">
                                 <div class="md-form mb-0">
-                                    <label for="name" class="">Your name</label>
+                                    <label for="name" class="">Name</label>
                                     <input type="text" id="name" name="name" class="form-control" value="Name">
                                 </div>
                             </div>
-                            <!--Grid column-->
 
-                            <!--Grid column-->
+                            <!-- Grid column includes the form's Email entry field -->
                             <div class="col-md-9">
                                 <div class="md-form mb-0">
                                     <br>
@@ -79,15 +96,13 @@
                                     <input type="text" id="email" name="email" class="form-control" value="Email">
                                 </div>
                             </div>
-                            <!--Grid column-->
 
                         </div>
-                        <!--Grid row-->
 
-                        <!--Grid row-->
+                        <!-- Grid row -->
                         <div class="row">
 
-                            <!--Grid column-->
+                            <!-- Grid column includes the form's Message entry box -->
                             <div class="col-md-9">
                                 <br>
                                 <div class="md-form">
@@ -98,45 +113,38 @@
 
                             </div>
                         </div>
-                        <!--Grid row-->
 
                     </form>
                     <br>
+
+                    <!-- Form Submit Button -->
                     <div class="text-center text-md-left">
                         <a class="btn btn-secondary"
                             onclick="document.getElementById('contact-form').submit();">Submit</a>
                     </div>
                     <div class="status"></div>
                 </div>
-                <!--Grid column-->
 
-                <!--Grid column-->
+                <!-- Grid column -->
                 <div class="col-md-3 text-center">
                     <ul class="list-unstyled mb-0">
                         <li><i class="fas fa-map-marker-alt fa-2x"></i>
-
                         </li>
-
                         <li><i class="fas fa-phone mt-4 fa-2x"></i>
-
                         </li>
-
                         <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-
                         </li>
                     </ul>
                 </div>
-                <!--Grid column-->
 
             </div>
 
         </section>
-        <!--Section: Contact v.2-->
-
+        <!-- Section: Contact -->
     </div>
 
     <!-- Footer -->
-    <footer class="text-muted">Copyright © 2020 Logique.com, Inc. All rights reserved.</footer>
+    <footer class="text-muted">Copyright © 2020 Logique.com, All rights reserved.</footer>
 
     <!-- JQuery and Bootstrap JScript -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -148,8 +156,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
         crossorigin="anonymous"></script>
-</body>
-
 </body>
 
 </html>

@@ -7,6 +7,8 @@
     box-sizing: border-box;
   }
   
+/* Browser widths above 993px */
+
   @media (min-width: 993px) {
 
     .container {
@@ -22,10 +24,7 @@
   
   }
 
-  /*
-    Browser widths above 992px
-  */
-
+  /* Browser widths above 992px */
 
   @media screen and (max-width: 992px) {
 
@@ -37,9 +36,8 @@
   
   }
 
-/* Additional Screen Sizes */
 
-/* Width at 320px and below */
+/* Width at 768px and below */
 
 @media screen and (max-width: 768px) {
     .container {
@@ -55,7 +53,6 @@
     }
   }
   
-  /* Additional Screen Sizes */
   
   /* Width at 400px and below */
   @media screen and (max-width: 400px) {
@@ -73,6 +70,7 @@
     }
   }
   
+
   /* Width at 277px and below */
   @media screen and (max-width: 277px) {
     .container {
@@ -92,6 +90,7 @@
     }
 
 }
+
 
 /* Width at 234px and below */
 @media screen and (max-width: 234px) {

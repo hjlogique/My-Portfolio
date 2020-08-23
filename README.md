@@ -1,89 +1,39 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# gw_bc_hw2
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+GW CODING BOOTCAMP
+HOMEWORK 2: CSS and Bootstrap Homework - Responsive Portfolio   
+Due date: Saturday, 08/22/20 Midnight Eastern Time (ET)
+Student: HENRY JEAN LOGIQUE
+Subject: My website
 
-
-## Directions
-
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
-
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
-
-* Using Bootstrap, develop your portfolio site with the following items:
-
-   * A navbar
-
-   * A responsive layout
-
-   * Responsive images
-
-* The Bootstrap portfolio should minimize the use of media queries.
-
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
-
-### Hints
-
-* Use Bootstrap's grid system (containers, rows, and columns).
-
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
-
-* Use an HTML validation service to ensure that each page has valid HTML.
-
-### Minimum Requirements
-
-* Functional, deployed application
-
-* GitHub repository with README describing the project
-
-* Navbar must be consistent on each page.
-
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
-
-* All links must work.
-
-* Must use semantic html.
-
-* Each page must have valid and correct HTML. (use a validation service)
-
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
-
-* Must properly utilize Bootstrap components and grid system.
+This is my website, logique.com. It has three webpages: About Me, Portfolio and Contact. All three
+webppages have the same main header (banner) and footer. The main header includes my name as the 
+logo of the website at the top left, and the horizontal navigation buttons at the top right. The 
+footer includes the copy right for my website. The About webpage is the website's main page. In 
+the main content section, the heading reads "About Me". Below the heading there is a picture of me 
+on the left and a paragraph about my work experiences, academic backgrounds and interests on the 
+right. The heading of the Portfolio webpage reads "Portfolio". In the main content section, there 
+are six images of my artworks displayed in rows and columns. The heading in the Contact webpage 
+reads "Contact". In the main content section section, there is a form with three entry fields: 
+Name, Email and Message, and a Submit button.
 
 
-### Bonus
 
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
+In this homework assignment, I accomplished the followings:
 
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+    - Created three Index(About), Portfolio and Contact webpages.
+    - Included links to the main BootStrap CSS and JScript framework in the webpages.
+    - Added the header (banner), and the Navigation bar.
+    - Added the Bootstrap Grid system including containers, rows, and columns.
+    - Added a Bootstrap Navbar component and sticky footer to all webpages.
+    - Made the navigation bar sticky.
+    - Added Bootstrap Image Thubnail content to the About webpage.
+    - Added Bootstrap Column Card component containing images to the Porfolio webpage. 
+    - Added Bootstrap form to the Contact webpage.
+    - Created a CSS to stylize all three pages with the a consistent layout and look.
+    - Created a CSS for the responsiveness of the website for different devices
+      (The provided images of the layouts were used to create the CSS styles).
+   -  Tested the overall functionalities, consisteancy and responsiveness of the website 
+      by using the Inspect Devtool to simulate the website for different mobile devices.
+    - Uploaded the updated files to my personal GitHub repository, and made the URLs to 
+      my deployed application, and my GitHub repository available.
