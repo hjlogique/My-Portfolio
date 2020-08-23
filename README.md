@@ -1,10 +1,10 @@
 # gw_bc_hw2
 
-GW CODING BOOTCAMP
-HOMEWORK 2: CSS and Bootstrap Homework - Responsive Portfolio   
-Due date: Saturday, 08/22/20 Midnight Eastern Time (ET)
-Student: HENRY JEAN LOGIQUE
-Subject: My website
+ -GW CODING BOOTCAMP
+ -HOMEWORK 2: CSS and Bootstrap Homework - Responsive Portfolio   
+ -Due date: Saturday, 08/22/20 Midnight Eastern Time (ET)
+ -Student: HENRY JEAN LOGIQUE
+ -Subject: My website
 
 This is my website, logique.com. It has three webpages: About Me, Portfolio and Contact. All three
 webppages have the same main header (banner) and footer. The main header includes my name as the 
@@ -33,7 +33,7 @@ In this homework assignment, I accomplished the followings:
     - Created a CSS to stylize all three pages with the a consistent layout and look.
     - Created a CSS for the responsiveness of the website for different devices
       (The provided images of the layouts were used to create the CSS styles).
-   -  Tested the overall functionalities, consisteancy and responsiveness of the website 
+    - Tested the overall functionalities, consistancy and responsiveness of the website 
       by using the Inspect Devtool to simulate the website for different mobile devices.
     - Uploaded the updated files to my personal GitHub repository, and made the URLs to 
       my deployed application, and my GitHub repository available.
