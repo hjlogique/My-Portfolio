@@ -3,6 +3,7 @@
  GW CODING BOOTCAMP
  My Protfolio - Responsive Portfolio   
  By HENRY JEAN LOGIQUE
+ Used technologies: HTML, CSS, JavaScript, jQuery, Bootstrap framework
  ```
 ```
 This is my website, logique.com. It has three webpages: About Me, Portfolio and Contact. All three
