@@ -5,6 +5,8 @@
  By HENRY JEAN LOGIQUE
  Used technologies: HTML, CSS, JavaScript, jQuery, Bootstrap framework
  ```
+ https://hjlogique.github.io/My-Portfolio/
+ 
 ```
 This is my website, logique.com. It has three webpages: About Me, Portfolio and Contact. All three
 webppages have the same main header (banner) and footer. The main header includes my name as the 
