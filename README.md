@@ -7,7 +7,7 @@
  ```
  [Link to my GitHub Profile](https://github.com/hjlogique)
 <br/>
-[Link to the Password Generator application](https://hjlogique.github.io/My-Portfolio/)
+[Link to the my portfolio website](https://hjlogique.github.io/My-Portfolio/)
 ```
 This is my website, logique.com. It has three webpages: About Me, Portfolio and Contact. All three
 webppages have the same main header (banner) and footer. The main header includes my name as the 
