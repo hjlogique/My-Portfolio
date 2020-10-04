@@ -18,7 +18,7 @@ Name, Email and Message, and a Submit button.
 ```
 
 ```
-In this homework assignment, I accomplished the followings:
+I accomplished the followings:
 
     - Created three Index(About), Portfolio and Contact webpages.
     - Included links to the main BootStrap CSS and JScript framework in the webpages.
