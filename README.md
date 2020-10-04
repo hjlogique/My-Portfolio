@@ -4,6 +4,7 @@
  My Protfolio - Responsive Portfolio   
  By HENRY JEAN LOGIQUE
  Used technologies: HTML, CSS, JavaScript, jQuery, Bootstrap framework
+ License: MIT
  ```
  [Link to my GitHub Profile](https://github.com/hjlogique)
 <br/>
